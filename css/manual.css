@@ -252,6 +252,13 @@ h3.sub:first-child{margin-top:0}
 .res-body h4{font:700 16px var(--font-display);color:var(--navy)}
 .res-body p{font-size:14px;color:var(--ink-2);flex:1}
 .res-meta{font-size:13px;color:var(--ink-2);font-weight:600}
+.png-intro{font-size:14px;color:var(--ink-2);margin:-6px 0 14px}
+.png-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.png-tile{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);display:flex;flex-direction:column;overflow:hidden}
+.png-prev{height:110px;display:flex;align-items:center;justify-content:center;padding:14px;background:var(--navy)}
+.png-prev img{max-height:82px;max-width:100%;width:auto;object-fit:contain}
+.png-body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.png-body h4{font:700 15px var(--font-display);color:var(--navy);flex:1}
 .res-all{margin-top:22px;display:flex;justify-content:center}
 .res-all .btn{max-width:420px}
 
@@ -302,6 +309,7 @@ h3.sub:first-child{margin-top:0}
   .formats{grid-template-columns:repeat(3,1fr)}
   .examples{grid-template-columns:repeat(2,1fr)}
   .res-grid{grid-template-columns:repeat(2,1fr)}
+  .png-grid{grid-template-columns:repeat(3,1fr)}
   .grid-3{grid-template-columns:repeat(2,1fr)}
   .phil .grid-3{grid-template-columns:repeat(3,1fr)}
   .intro-card{grid-template-columns:1fr;max-width:none;margin:-56px 28px 0}
@@ -336,6 +344,7 @@ h3.sub:first-child{margin-top:0}
   .formats{grid-template-columns:1fr 1fr}
   .examples{grid-template-columns:1fr 1fr}
   .res-grid{grid-template-columns:1fr}
+  .png-grid{grid-template-columns:repeat(2,1fr)}
   .btn-row{flex-direction:column;gap:10px}
   .zone-ex{max-width:340px;margin:0 auto}
   .showcase img{max-width:240px;margin:0 auto}

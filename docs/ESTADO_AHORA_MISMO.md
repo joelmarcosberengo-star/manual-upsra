@@ -7,6 +7,7 @@
 | Secciones 01 a 10 con contenido corregido (sin repeticiones, regla del dorado como aviso) | COMPLETO en la rama |
 | Ejemplos visuales con las 5 piezas reales de Joel | COMPLETO en la rama |
 | Descargas sueltas en `recursos/` y zip rearmado | COMPLETO en la rama |
+| Archivos PNG para placas (7 recortes en alta resolución), sueltos y dentro del zip completo | COMPLETO en la rama |
 | Archivos Trinity | COMPLETO |
 | Publicación en Vercel (unir el PR a main) | PENDIENTE: ok de Joel después de ver la vista previa |
 
