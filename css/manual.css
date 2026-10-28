@@ -117,6 +117,7 @@ h3.sub:first-child{margin-top:0}
 .disclaimer svg{width:32px;height:32px;color:var(--navy)}
 .disclaimer strong{display:block;font:800 18px var(--font-display);color:var(--navy);text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px}
 .disclaimer p{font-size:16px}
+.disclaimer ul{margin:0;padding-left:20px;display:grid;gap:6px;font-size:16px}
 .alert-warn{background:var(--warn-bg);border-color:var(--warn-edge)}
 
 /* Sí / No */

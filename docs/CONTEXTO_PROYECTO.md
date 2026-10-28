@@ -32,3 +32,7 @@ La imagen de conducción se conserva como banner antes del pie. El pie es el ins
 
 ### D-06: Recursos sueltos más el zip completo — 27/10/2026 — Estado: Decisión de Joel
 Cada recurso se puede bajar suelto. El zip se rearmó con rutas `/`, porque el original tenía barras invertidas y en Mac se descomprimía desordenado.
+
+### D-07: Dorado con moderación — 28/10/2026 — Estado: Decisión de Joel
+Contexto: el aviso decía que el dorado nunca iba en títulos, pero las piezas reales lo usan para remarcar palabras.
+Regla: «UPSRA» nunca va en dorado, salvo que la pieza lo exija por formato o contraste. En los títulos, el dorado se usa con moderación y solo para remarcar algo puntual. No predomina ni se repite en todas las piezas.
